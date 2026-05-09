@@ -1,16 +1,21 @@
-# calculator_app
+# 🧮 CALCIX - Calculator App
 
-A new Flutter project.
+A modern dark-themed calculator app built with Flutter.
 
-## Getting Started
+## 📱 Screens
+- 🏠 Basic Calculator
+- 🔬 Scientific Calculator  
+- 📏 Unit Converter
+- 📜 History
+- ⚙️ Settings
+- ℹ️ About & Help
 
-This project is a starting point for a Flutter application.
+## 🛠 Built With
+- Flutter & Dart
 
-A few resources to get you started if this is your first Flutter project:
+## 📚 Course
+Android Programming Course
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 👨‍💻 Developer
+**Mohamed Mohamed Younis**  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
